@@ -1,0 +1,39 @@
+{
+ "spider": "https://ghproxy.net/https://raw.githubusercontent.com/su-god/Box/main/spider/xy_spider_1119.jar",
+ "sites": [
+  {
+   "key": "kanju19",
+   "name": "看剧",
+   "type": 3,
+   "api": "csp_ViewDrama",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "iys19",
+   "name": "爱影视",
+   "type": 3,
+   "api": "csp_AiYingShi",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "iys_tianwe19",
+   "name": "爱影视源",
+   "type": 1,
+   "api": "https://cj.tianwe.cn/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1
+  },
+  {
+   "key": "kanju_a19",
+   "name": "看剧源",
+   "type": 1,
+   "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1
+  }
+ ]
+}
