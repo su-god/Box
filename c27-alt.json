@@ -1,0 +1,55 @@
+{
+ "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/su-god/Box/main/spider/xy_spider_1121.jar",
+ "sites": [
+  {
+   "key": "kanju21",
+   "name": "看剧",
+   "type": 3,
+   "api": "csp_ViewDrama",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "iys21",
+   "name": "爱影视",
+   "type": 3,
+   "api": "csp_AiYingShi",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "lz21",
+   "name": "量子",
+   "type": 1,
+   "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
+   "searchable": 1,
+   "quickSearch": 1
+  },
+  {
+   "key": "bf21",
+   "name": "暴风",
+   "type": 1,
+   "api": "http://bf.xoxowin86cisyap.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1
+  },
+  {
+   "key": "dytt21",
+   "name": "天堂",
+   "type": 1,
+   "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/",
+   "searchable": 1,
+   "quickSearch": 1
+  },
+  {
+   "key": "xigua21",
+   "name": "西瓜",
+   "type": 1,
+   "api": "https://caiji.xgzyapi.com/api.php/provide/vod/from/xiguam3u8/",
+   "searchable": 1,
+   "quickSearch": 1
+  }
+ ]
+}
