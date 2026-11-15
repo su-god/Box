@@ -1,0 +1,52 @@
+{
+ "sites": [
+  {
+   "key": "iys_tw",
+   "name": "爱影视",
+   "type": 1,
+   "api": "https://cj.tianwe.cn/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1
+  },
+  {
+   "key": "iys_wk",
+   "name": "爱影视2",
+   "type": 1,
+   "api": "http://api.wkvip.net/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1
+  },
+  {
+   "key": "lz",
+   "name": "量子",
+   "type": 1,
+   "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
+   "searchable": 1,
+   "quickSearch": 1
+  },
+  {
+   "key": "dytt",
+   "name": "天堂",
+   "type": 1,
+   "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/",
+   "searchable": 1,
+   "quickSearch": 1
+  },
+  {
+   "key": "bf",
+   "name": "暴风",
+   "type": 1,
+   "api": "https://api.apibdzy.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1
+  },
+  {
+   "key": "xigua",
+   "name": "西瓜",
+   "type": 1,
+   "api": "https://caiji.xgzyapi.com/api.php/provide/vod/from/xiguam3u8/",
+   "searchable": 1,
+   "quickSearch": 1
+  }
+ ]
+}
